@@ -14,6 +14,7 @@ namespace WindowsFormsApplication1
            int letra = 0;
            int linha = 1;
 
+
            if (posicaoOrigem.coordenada[letra] == posicaoDestino.coordenada[letra] &
                posicaoOrigem.coordenada[linha] != posicaoDestino.coordenada[linha])
            {
