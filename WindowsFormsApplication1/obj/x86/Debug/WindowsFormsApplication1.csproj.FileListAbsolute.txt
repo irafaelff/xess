@@ -1,0 +1,24 @@
+c:\users\igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Tabuleiro.resources
+C:\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\xess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\xess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Tabuleiro.resources
+C:\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Tabuleiro.resources
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Igor\Documents\MEGA\Outros\xess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
