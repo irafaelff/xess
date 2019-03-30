@@ -38,7 +38,7 @@ namespace WindowsFormsApplication1
             
             Boolean cor;
             cor = false;
-            for (i = 0; i < 8; i++) //Avança linha
+            for (i = 0; i < 8; i++) //Avança linha.
             {
 
                 if (i == 0)
@@ -51,7 +51,7 @@ namespace WindowsFormsApplication1
                 else
                     cor = true;
 
-                for (x = 0; x < 8; x++) //Avança coluna
+                for (x = 0; x < 8; x++) //Avança coluna.
                 {
                     if (x == 0)
                         posX = 1;
